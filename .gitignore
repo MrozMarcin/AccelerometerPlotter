@@ -1,0 +1,15 @@
+*.txt
+*.crf
+*.o
+*.bak
+*.htm
+*.d
+*.md
+*.launch
+*.lnp
+*.axf
+*.MM
+*.iex
+*.hex
+*.sct
+*.dep
